@@ -1,0 +1,4 @@
+pyserial>=3.5
+PyQt5>=5.15
+numpy>=1.21
+scikit-learn>=1.0
